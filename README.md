@@ -1,5 +1,5 @@
 👋 Hi, I’m @CMapara
-👀 I’m interested in Cloud Computing, and bringnig the power of an open hybrid cloud strategy to life, for everyone. 
+👀 I’m interested in Cloud Computing, and bringing the power of an open hybrid cloud strategy to life, for everyone. 
 🌱 I’m currently learning Full Stack Java Development, Cloud Computing and CyberSecurity.
 
 <!---
